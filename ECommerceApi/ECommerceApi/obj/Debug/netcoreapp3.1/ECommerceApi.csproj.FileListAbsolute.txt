@@ -1,0 +1,279 @@
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfo.cs
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.exe
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.deps.json
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.json
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.xml
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CopyComplete
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.genruntimeconfig.cache
+C:\Users\HP\source\repos\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfo.cs
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.exe
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.deps.json
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.json
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.xml
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CopyComplete
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.genruntimeconfig.cache
+C:\Users\HP\source\repos\Sprint1WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.exe
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.deps.json
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.json
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfo.cs
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.xml
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CopyComplete
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.genruntimeconfig.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.exe
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.deps.json
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.json
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.AssemblyInfo.cs
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\staticwebassets\ECommerceApi.StaticWebAssets.xml
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.csproj.CopyComplete
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.dll
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.pdb
+C:\Users\HP\Desktop\.Net Training\Sprint1-WebApi\ECommerceApi\ECommerceApi\obj\Debug\netcoreapp3.1\ECommerceApi.genruntimeconfig.cache
